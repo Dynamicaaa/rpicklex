@@ -1,0 +1,19 @@
+﻿{
+  "name": "@dynamicaaa/rpicklex",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Pure JavaScript pickle parser used by RPX.",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "keywords": [
+    "pickle",
+    "python",
+    "parser",
+    "renpy",
+    "rpa"
+  ],
+  "author": "Dynamicaaa",
+  "license": "MIT"
+}
