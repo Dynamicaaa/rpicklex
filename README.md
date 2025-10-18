@@ -1,6 +1,6 @@
 ﻿# RPickleX
 
-Pure JavaScript parser for Python pickle bytecode supporting protocols 0 through 5. This package is used internally by RPX to decode Ren''Py archive indexes but can be consumed independently.
+Pure JavaScript parser for Python pickle bytecode supporting protocols 0 through 5. This package is used internally by RPX to decode Ren'Py archive indexes but can be used independently.
 
 ## Installation
 
